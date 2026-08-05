@@ -10,6 +10,9 @@ public class Main {
         System.out.print("Enter a number: ");
         int number = sc.nextInt(); 
         palindrome p = n -> {
+            if(n < 0){
+                return false;
+            }
             int original = n;
             int reverse = 0;
             while(n > 0) {
