@@ -1,3 +1,4 @@
+// Nth Fibonacci
 import java.util.Scanner;
 interface Fibonacci {
     int find(int n);
