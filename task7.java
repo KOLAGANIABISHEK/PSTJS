@@ -1,3 +1,4 @@
+//Sum of even or odd digits
 import java.util.Scanner;
 public  class Main{
     interface DigitSums {
