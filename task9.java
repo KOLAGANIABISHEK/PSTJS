@@ -1,3 +1,4 @@
+//is Palindrome Number ?
 import java.util.Scanner;
 @FunctionalInterface
 interface palindrome {
